@@ -1,6 +1,6 @@
--  Hi👋, I’m Ashish Sharma
+- 🖖 Hi, I’m Ashish Sharma
 - 👀 I’m Front-End Developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TAILWIND, ReactJs, NodeJs
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, TAILWIND, ReactJs
 - 📫 How to reach me ashishsharma.2953@gmail.com
 
 <!---
